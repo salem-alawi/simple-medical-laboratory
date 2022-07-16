@@ -17,7 +17,7 @@ import java.util.List;
 @Setter
 @ToString
 @NoArgsConstructor
-@Document(value = "categories")
+@Document(value = "subjects")
 public class Subject {
 
     @Id
