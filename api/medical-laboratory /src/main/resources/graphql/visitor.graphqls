@@ -1,0 +1,7 @@
+type Query{
+    hello(name:String,age:Int): Hello
+}
+
+type Hello{
+    text: String!
+}
