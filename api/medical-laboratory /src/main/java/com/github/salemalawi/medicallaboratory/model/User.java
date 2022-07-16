@@ -20,7 +20,7 @@ public class User {
 
 
     @Id
-    private Long id;
+    private String  id;
 
     @Field(name = "name")
     private String name;
